@@ -1,0 +1,60 @@
+StandingRobo
+
+    irc
+        commands
+            current sprint stats
+            last seen?
+            fun
+                botsnack
+            planning poker?
+                iterate though bugs
+                accept privmsgs for estimates
+            tell
+        announcements
+            events
+            current sprint stats
+        privmsg vs public addressing
+    web
+        web archive
+            where?
+                static files on people?
+                post to wiki?
+            daily irc logs
+                from standup etc
+                try to call some things out
+                    links mentioned
+                    bugs mentioned
+                    nicks present
+                    answers to standup questions
+        personal management
+            irc nick
+            ping me for events
+        admin / control form
+            server addy, port, ssl
+            channels
+            shutdown / restart
+            admin nicks / hostmasks
+    events
+        standups
+            announcements
+                current sprint milestone
+                link to backlog
+                code freeze date
+                points completed
+                current daily velocity
+            30 min irc logging
+                try to capture and parse questions
+            main questions
+                1. what have you done
+                2. what will you do
+                3. any blockers?
+        change channel topic?
+            on code freeze day?
+        calendar reminders?
+    impl
+        node.js
+            is there an existing irc bot fw i could use?
+            web ui
+        on khan? on decafbad?
+
+
