@@ -1,0 +1,8 @@
+nodeunit
+async
+irc
+express
+underscore
+backbone
+optparse
+dirty

@@ -1,0 +1,13 @@
+{
+    "debug": false,
+    "httpd": {
+        "port": 8011
+    },
+    "irc": {
+        "nick": "robokuma",
+        "server": "irc.mozilla.org",
+        "port": 6697,
+        "secure": true,
+        "channels": [ "#lorchard" ]
+    }
+}
